@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@babylonjs/core@^5.34.0":
+  version "5.34.0"
+  resolved "https://registry.yarnpkg.com/@babylonjs/core/-/core-5.34.0.tgz#aaa3b20ba0d277b28c05a756d0e488a1be80dacc"
+  integrity sha512-gK8zc4jqTtKPSmWss4vXc1WC5vMKl10RhM2wXWsn3z9GPt0zOFMwxnBJxTnb6K7WYImPj7r4WniUdm85woT77Q==
+
 "@esbuild/android-arm@0.15.16":
   version "0.15.16"
   resolved "https://registry.yarnpkg.com/@esbuild/android-arm/-/android-arm-0.15.16.tgz#0642926178b15e3d1545efae6eee05c4f3451d15"
