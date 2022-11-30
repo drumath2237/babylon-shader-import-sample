@@ -1,5 +1,7 @@
 # babylon-shader-import-sample
 
+[![Deploy static content to Pages](https://github.com/drumath2237/babylon-shader-import-sample/actions/workflows/static.yml/badge.svg)](https://github.com/drumath2237/babylon-shader-import-sample/actions/workflows/static.yml)
+
 ## About
 
 Vite環境におけるBabylon.jsでシェーダをインポートするときのTipsのためのサンプルプロジェクトです。
