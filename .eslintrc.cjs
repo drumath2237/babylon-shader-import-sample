@@ -11,4 +11,9 @@ module.exports = {
   },
   plugins: ['@typescript-eslint'],
   rules: {},
+  settings:{
+    "import/resolver":{
+      typescript:[]
+    }
+  }
 };
